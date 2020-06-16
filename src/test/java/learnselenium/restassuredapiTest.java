@@ -13,6 +13,7 @@ public class restassuredapiTest {
 	public void getresponse() {
 		System.out.println("This is api responses");
 	System.out.println("got responses");
+	System.out.println("why this is not reflected");
 	
 	}
 	
