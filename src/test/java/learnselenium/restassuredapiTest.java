@@ -12,6 +12,8 @@ public class restassuredapiTest {
 	@Test
 	public void getresponse() {
 		System.out.println("This is api responses");
+	System.out.println("got responses");
+	
 	}
 	
 }
