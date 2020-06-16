@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="138" started-at="2020-05-28T09:18:00Z" finished-at="2020-05-28T09:18:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="138" started-at="2020-05-28T09:18:00Z" finished-at="2020-05-28T09:18:00Z">
+      <class name="learnselenium.seleniumjavaTest">
+        <test-method status="PASS" signature="uilogin()[pri:0, instance:learnselenium.seleniumjavaTest@2b98378d]" name="uilogin" duration-ms="29" started-at="2020-05-28T09:18:00Z" finished-at="2020-05-28T09:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uilogin -->
+        <test-method status="PASS" signature="uitest()[pri:0, instance:learnselenium.seleniumjavaTest@2b98378d]" name="uitest" duration-ms="4" started-at="2020-05-28T09:18:00Z" finished-at="2020-05-28T09:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uitest -->
+      </class> <!-- learnselenium.seleniumjavaTest -->
+      <class name="learnselenium.restassuredapiTest">
+        <test-method status="PASS" signature="apiautomation()[pri:0, instance:learnselenium.restassuredapiTest@26be92ad]" name="apiautomation" duration-ms="2" started-at="2020-05-28T09:18:00Z" finished-at="2020-05-28T09:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiautomation -->
+        <test-method status="PASS" signature="getresponse()[pri:0, instance:learnselenium.restassuredapiTest@26be92ad]" name="getresponse" duration-ms="5" started-at="2020-05-28T09:18:00Z" finished-at="2020-05-28T09:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresponse -->
+      </class> <!-- learnselenium.restassuredapiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

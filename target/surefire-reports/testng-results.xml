@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2020-04-24T11:43:58 BST" finished-at="2020-04-24T11:43:58 BST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2020-04-24T11:43:58 BST" finished-at="2020-04-24T11:43:58 BST">
+      <class name="learnselenium.seleniumjavaTest">
+        <test-method status="PASS" signature="uilogin()[pri:0, instance:learnselenium.seleniumjavaTest@5f2108b5]" name="uilogin" duration-ms="15" started-at="2020-04-24T11:43:58 BST" finished-at="2020-04-24T11:43:58 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uilogin -->
+        <test-method status="PASS" signature="uitest()[pri:0, instance:learnselenium.seleniumjavaTest@5f2108b5]" name="uitest" duration-ms="0" started-at="2020-04-24T11:43:58 BST" finished-at="2020-04-24T11:43:58 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uitest -->
+      </class> <!-- learnselenium.seleniumjavaTest -->
+      <class name="learnselenium.restassuredapiTest">
+        <test-method status="PASS" signature="apiautomation()[pri:0, instance:learnselenium.restassuredapiTest@31a5c39e]" name="apiautomation" duration-ms="0" started-at="2020-04-24T11:43:58 BST" finished-at="2020-04-24T11:43:58 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiautomation -->
+        <test-method status="PASS" signature="getresponse()[pri:0, instance:learnselenium.restassuredapiTest@31a5c39e]" name="getresponse" duration-ms="0" started-at="2020-04-24T11:43:58 BST" finished-at="2020-04-24T11:43:58 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresponse -->
+      </class> <!-- learnselenium.restassuredapiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
